@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Rlwz4m0aHgXH13jyrE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justviralnet-funny-cool-monkey-Rlwz4m0aHgXH13jyrE"></a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/Rlwz4m0aHgXH13jyrE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"></div><p><a href="https://giphy.com/gifs/justviralnet-funny-cool-monkey-Rlwz4m0aHgXH13jyrE"></a></p>
 
 <h1 align="center">Hi 👋, I'm Anshuman Tripathy</h1>
 <h3 align="center">A passionate frontend developer from Odisha, India</h3>
