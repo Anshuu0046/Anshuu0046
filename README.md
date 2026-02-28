@@ -4,8 +4,8 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Anshuman Tripathy and I'm a Web Developer, from Odisha, India</h2>
-
+<h2 align="left">Hi 👋 I'm Anshuman Tripathy</h2>
+<p>B.Tech CSE | Software Developer | Turning ideas into real-world systems using Python, Java & APIs</p>
 ###
 
 <div align="center">
